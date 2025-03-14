@@ -1,0 +1,8 @@
+
+train: /ML/ubl vs non-ubl/data_dir/train/images
+val: /ML/ubl vs non-ubl/data_dir/valid/images
+test: /ML/ubl vs non-ubl/data_dir/test/images
+
+nc: 2
+names: ['non-ubl','ubl']
+    
